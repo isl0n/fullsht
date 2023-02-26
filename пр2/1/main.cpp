@@ -39,4 +39,5 @@ int main()
         std::cout << "Периметр: " << A[i].perimeter() << '\n';
         std::cout << "Площадь: " << A[i].area() << "\n\n";
     }
+    Setlocale (LC_ALL, "Russian")
 }
